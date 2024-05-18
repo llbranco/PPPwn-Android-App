@@ -52,9 +52,13 @@ dependencies {
     <string-array name="firmware_options">
         <item>900</item>
         <item>903</item>
+        <item>904</item>
+        <item>950</item>
         <item>960</item>
         <item>1000</item>
         <item>1001</item>
+        <item>1050</item>
+        <item>1070</item>
         <item>1071</item>
         <item>1100</item>
     </string-array>
@@ -69,4 +73,4 @@ dependencies {
 ## Note2: any option of Firmware work but if you add the right stage1 and stage2 bin on files so it need modify the code to make it find which Firmware with which stage1 and stage2. 
 
 
-# Thanks to all developers on the sence 
+# Thanks to all developers on the scene 
